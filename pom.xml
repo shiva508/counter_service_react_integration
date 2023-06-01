@@ -20,6 +20,7 @@
 		<npm.version>8.19.2</npm.version>
 	</properties>
 	<build>
+		<finalName>counter_service_react_integration</finalName>
 		<plugins>
 			<plugin>
 				<artifactId>maven-resources-plugin</artifactId>
