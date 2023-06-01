@@ -1,4 +1,4 @@
-package com.counter.model;
+package com.pool.model;
 
 import java.io.Serializable;
 

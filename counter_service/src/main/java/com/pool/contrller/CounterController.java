@@ -1,12 +1,11 @@
-package com.counter.contrller;
+package com.pool.contrller;
 
-import com.counter.model.CounterModel;
-import com.counter.service.CounterService;
+import com.pool.model.CounterModel;
+import com.pool.service.CounterService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-
 import java.util.List;
 
 @RestController

@@ -1,4 +1,4 @@
-package com.counter.filter;
+package com.pool.filter;
 
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;

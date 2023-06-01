@@ -1,6 +1,6 @@
-package com.counter.service;
+package com.pool.service;
 
-import com.counter.model.CounterModel;
+import com.pool.model.CounterModel;
 
 import java.util.List;
 
