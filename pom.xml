@@ -3,10 +3,11 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.counter</groupId>
+	<groupId>com.pool</groupId>
 	<artifactId>counter_service_react_integration</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
+
 	<name>counter_service_react_integration</name>
 	<description>This app is used to create new counters and track count value</description>
 	<modules>
